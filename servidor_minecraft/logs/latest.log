@@ -43,3 +43,10 @@
 [30Nov2024 18:44:53.832] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Nov2024 18:51:43.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Nov2024 18:51:43.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sad<--[HERE]
+[30Nov2024 18:55:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 18:55:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[30Nov2024 19:00:34.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 19:00:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[30Nov2024 19:03:49.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Araujo143[/100.83.157.74:50775] logged in with entity id 66 at (-30.5, 105.0, 8.5)
+[30Nov2024 19:03:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Araujo143 joined the game
+[30Nov2024 19:04:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Araujo143 a server operator
